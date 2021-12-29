@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tz0Usugx5VLt5h9xlFnuhRl5kbxB+5Pn80WIuR+bK/vczR+Y++r7jDntFNnw6YhvGvAw2ub2id4vsXPJh/ZS9A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kovai.Co\\Internship\\DotNet\\Console\\Interfaces_Exe_2\\Interfaces_Exe_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanvandh Prabhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
